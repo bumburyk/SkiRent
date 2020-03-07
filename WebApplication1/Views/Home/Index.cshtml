@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "ГІРСЬКОЛИЖНЕ СПОРЯДЖЕННЯ";
+}
+
+
+
+
+@*<div class="jumbotron"></div>*@
+    <style>
+        body {
+            background: url(https://img.rosbalt.ru/photobank/e/3/1/e/vk4Kzb8L-580.jpg) ;
+            background-size: 100%;
+        }
+    </style>
+    <div>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="~/Styles/style.css" type="text/css" />
+
+        <div class="slideshow-container">
+
+            <div class="mySlides">
+                <q><img src="https://fanaticsport.ua/media/catalog/category/volkl_aw_17-18_racetiger_sl.jpg" width="389" height="255" /></q> <br />
+                <br /> <p>Гірські лижі</p>
+                <p><a class="author" href="http://localhost:53058/Ski/Ski" target="_blank">Переглянути пропозиції</a></p>
+            </div>
+
+            <div class="mySlides">
+                <q><img src="https://fanaticsport.ua/media/catalog/category/nationalteam_profi_19_mm_01_2_2.jpg" width="389" height="255" /></q> <br />
+                <br /> <p>Гірсколижні палиці</p>
+                <p><a class="author" href="http://localhost:53058/SkiSticks/SkiSticks" target="_blank">Переглянути пропозиції</a></p>
+            </div>
+
+            <div class="mySlides">
+                <q><img src="https://fanaticsport.ua/media/catalog/category/1617dalbellocollection_panterra_120_aga.jpg" width="389" height="255" /></q> <br />
+                <br /> <p>Гірськолижні черевики</p>
+                <p><a class="author" href="#" target="_blank">Переглянути пропозиції</a></p>
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">❮</a>
+            <a class="next" onclick="plusSlides(1)">❯</a>
+
+        </div>
+
+        <div class="dot-container">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+
+    
+
+
+
+        <script>
+
+            var slideIndex = 1;
+            showSlides(slideIndex);
+
+            function plusSlides(n) {
+                showSlides(slideIndex += n);
+            }
+
+            function currentSlide(n) {
+                showSlides(slideIndex = n);
+            }
+
+            function showSlides(n) {
+                var i;
+                var slides = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("dot");
+                if (n > slides.length) { slideIndex = 1 }
+                if (n < 1) { slideIndex = slides.length }
+                for (i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                }
+                slides[slideIndex - 1].style.display = "block";
+                dots[slideIndex - 1].className += " active";
+            }
+        </script>
+    </div>
+
+

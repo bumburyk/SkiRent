@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Гірські лижі";
+}
+
+<link rel="stylesheet" href="~/Styles/style.css" type="text/css" />
+<h2>Гірські лижі</h2>
+
+<div>
+    <style>
+        .scale {
+            transition: 1s; /*speed*/
+        }
+
+        .scale:hover {
+            transform: scale(1.6); /*size*/
+        }
+
+        /*body {
+            background: url(https://upload.wikimedia.org/wikipedia/commons/a/a3/Christel_Pascal_01.jpg) ;
+            background-size: 100%;
+        }
+
+        td {
+            border-style:hidden
+        }
+        th {
+            border-style:hidden
+        }*/
+    </style>
+    <table>
+        <tr><th>Фото</th><th>Ціна оренди за 1 день</th><th>Довжина</th><th>Виробник</th></tr>
+        <tr><td><img src="https://images.ua.prom.st/1999159757_w640_h640_lyzhi-atomic-redster.jpg" width="300" height="200" class="scale" /></td><td>120 грн</td><td>80 см</td><td>Atomik</td></tr>
+        <tr><td><img src="https://skimag.com.ua/image/data/salomon%20ski%2018-19/e-s-max-w-4.jpg" width="300" height="200" class="scale" /></td><td>180 грн</td><td>120 см</td><td>Salomon</td></tr>
+        <tr><td><img src="https://images-na.ssl-images-amazon.com/images/I/616zHsJqNbL._AC_SL1001_.jpg" alt="Картинки по запросу Nordica ski" width="300" height="200" class="scale" /></td><td>110 грн</td><td>210 см</td><td>Nordica</td></tr>
+    </table>
+</div>
+

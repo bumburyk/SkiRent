@@ -1,0 +1,331 @@
+D:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Testing Database for my instityt project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Testing Database for instityt project version.2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Kursach\KursachSki\TDBfI2\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
